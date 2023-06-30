@@ -4,7 +4,8 @@ Solution for a coding challenge.
 
 ## How to use 
 1. Clone the project
-2. Run ```python -m yahtzee_package.main ```
+2. Navigate to the root folder ```cd Yahtzee_simulator```
+3. Run ```python -m yahtzee_package.main```
 
 ## Assumptions and interpretations made from specification
 * The user specifies the number of dice and sides on dice for a simulation (1000 rolls). 
